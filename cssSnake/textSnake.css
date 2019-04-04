@@ -1,0 +1,10 @@
+body{
+    background: rgb(105, 110, 158);
+}
+
+.snakeGame{
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+}
